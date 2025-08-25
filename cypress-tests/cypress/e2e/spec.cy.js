@@ -1,4 +1,4 @@
-
+/// <reference types="cypress" />
 
 describe('TodoMVC (Vue - build)', () => {
   const URL = 'https://todomvc.com/examples/vue/dist/'
